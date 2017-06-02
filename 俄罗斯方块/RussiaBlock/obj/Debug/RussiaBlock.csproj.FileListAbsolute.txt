@@ -1,0 +1,9 @@
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\bin\Debug\RussiaBlock.exe.config
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\bin\Debug\RussiaBlock.exe
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\bin\Debug\RussiaBlock.pdb
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\obj\Debug\RussiaBlock.csprojResolveAssemblyReference.cache
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\obj\Debug\RussiaBlock.frm_main.resources
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\obj\Debug\RussiaBlock.Properties.Resources.resources
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\obj\Debug\RussiaBlock.csproj.GenerateResource.Cache
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\obj\Debug\RussiaBlock.exe
+D:\PersonProje\RussiaBlock\俄罗斯方块\RussiaBlock\obj\Debug\RussiaBlock.pdb
